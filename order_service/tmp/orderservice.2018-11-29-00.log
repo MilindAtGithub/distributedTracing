@@ -1,0 +1,6 @@
+649430653 [AsyncResolver-bootstrap-executor-0]  INFO c.n.d.s.r.a.ConfigClusterResolver - Resolving eureka endpoints via configuration - coorelationId= 
+650465422 [AsyncResolver-bootstrap-executor-0]  INFO c.n.d.s.r.a.ConfigClusterResolver - Resolving eureka endpoints via configuration - coorelationId= 
+650765549 [AsyncResolver-bootstrap-executor-0]  INFO c.n.d.s.r.a.ConfigClusterResolver - Resolving eureka endpoints via configuration - coorelationId= 
+651065541 [AsyncResolver-bootstrap-executor-0]  INFO c.n.d.s.r.a.ConfigClusterResolver - Resolving eureka endpoints via configuration - coorelationId= 
+651365647 [AsyncResolver-bootstrap-executor-0]  INFO c.n.d.s.r.a.ConfigClusterResolver - Resolving eureka endpoints via configuration - coorelationId= 
+651665716 [AsyncResolver-bootstrap-executor-0]  INFO c.n.d.s.r.a.ConfigClusterResolver - Resolving eureka endpoints via configuration - coorelationId= 

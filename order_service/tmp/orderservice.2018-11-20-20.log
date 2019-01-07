@@ -1,0 +1,3 @@
+8791162 [DiscoveryClient-HeartbeatExecutor-0]  INFO c.n.d.DiscoveryClient - DiscoveryClient_ORDERSERVICE/172.20.0.65:orderservice:9091 - Re-registering apps/ORDERSERVICE - coorelationId= 
+8791165 [DiscoveryClient-HeartbeatExecutor-0]  INFO c.n.d.DiscoveryClient - DiscoveryClient_ORDERSERVICE/172.20.0.65:orderservice:9091: registering service... - coorelationId= 
+8791175 [DiscoveryClient-HeartbeatExecutor-0]  INFO c.n.d.DiscoveryClient - DiscoveryClient_ORDERSERVICE/172.20.0.65:orderservice:9091 - registration status: 204 - coorelationId= 
